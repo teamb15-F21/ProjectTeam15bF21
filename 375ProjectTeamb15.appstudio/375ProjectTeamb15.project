@@ -34,6 +34,14 @@
             "Form2",
             "Form2.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "jess",
+            "jess.json"
+          ]
         }
       ],
       "configxml": null,
