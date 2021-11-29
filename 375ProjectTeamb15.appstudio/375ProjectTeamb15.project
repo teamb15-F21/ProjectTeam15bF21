@@ -33,6 +33,25 @@
             "forms",
             "showData",
             "showData.json"
+<<<<<<< Updated upstream
+=======
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "FlightForm",
+            "FlightForm.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "showFlightData",
+            "showFlightData.json"
+>>>>>>> Stashed changes
           ]
         }
       ],
