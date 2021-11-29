@@ -39,8 +39,48 @@
           "!type": "External",
           "file": [
             "forms",
-            "jess",
-            "jess.json"
+            "addTo",
+            "addTo.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "next",
+            "next.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "selectEvent",
+            "selectEvent.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "createAccount",
+            "createAccount.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "deleteEvent",
+            "deleteEvent.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "loginPage",
+            "loginPage.json"
           ]
         }
       ],
