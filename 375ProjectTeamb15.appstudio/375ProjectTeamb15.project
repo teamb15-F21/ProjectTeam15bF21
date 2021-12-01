@@ -23,16 +23,35 @@
           "!type": "External",
           "file": [
             "forms",
-            "Form1",
-            "Form1.json"
+            "WeatherForm",
+            "WeatherForm.json"
           ]
         },
         {
           "!type": "External",
           "file": [
             "forms",
-            "Form2",
-            "Form2.json"
+            "showData",
+            "showData.json"
+<<<<<<< Updated upstream
+=======
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "FlightForm",
+            "FlightForm.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "showFlightData",
+            "showFlightData.json"
+>>>>>>> Stashed changes
           ]
         },
         {
@@ -103,7 +122,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "Form1",
+      "firstform": "WeatherForm",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
